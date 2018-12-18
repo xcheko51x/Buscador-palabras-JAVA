@@ -1,2 +1,3 @@
 # Buscador-palabras-JAVA
-Buscador de palabras en JAVA
+
+Programa que realiza la busqueda de palabras de un archivo .txt en JAVA 
